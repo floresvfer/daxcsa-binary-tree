@@ -1,0 +1,21 @@
+.distributor-details {
+    background-color: #f3f3f3;
+    border-radius: 5px;
+    font-weight: 700;
+    /*left: 0%;*/
+     min-width: 0 !important;
+    padding: 0;
+    position: absolute;
+    top: -14px;
+    transition: 0.2s ease-in-out;
+    visibility: hidden;
+    z-index: 3;
+}
+.tree ul {
+    padding-left: 0!important;
+    text-align: center!important;
+}
+
+div#binary-tree.Treant{
+    height: 100% !important;
+}
