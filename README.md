@@ -1,3 +1,24 @@
+# Daxcsa - Genealogy tree
+
+## Special instructions
+
+Due to the library used, it is necessary to manually install and link the module, for this use the following reference
+
+[https://stackoverflow.com/a/18778516/10200325](https://stackoverflow.com/a/18778516/10200325)
+
+
+# App Screenshots
+
+## Web
+
+![alt text](./web-view.jpeg)
+![alt text](./web-view-details.png)
+
+## Mobile
+
+![alt text](./mobil-view.png)
+![alt text](./mobil-view-details.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
